@@ -99,7 +99,7 @@ Each notebook provides detailed evaluation metrics, including:
 - **Classification Report**: Provides precision, recall, and F1-score for each emotion class, as well as macro and weighted averages.
 - **Loss History Plot**: Shows the training and validation loss over epochs, helping to monitor for overfitting.
 
-Here's a summary of the performance metrics from the **test set** for each model:
+Here's a summary of the performance metrics from the **validation** for each model:
 
 | Model                     | Accuracy | Precision (Weighted Avg.) | Recall (Weighted Avg.) | F1-Score (Weighted Avg.) |
 |---------------------------|--------------------------|-------------------------------------------|----------------------------------------|------------------------------------------|
