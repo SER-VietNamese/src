@@ -27,7 +27,7 @@ The models are trained and evaluated on a Vietnamese speech emotion dataset. The
   - `Neutral/`
   - `Sad/`
 - `vesc_test/` (Test set)
-  - `angry/`
+  - `Angry/`
   - `Happy/`
   - `Anxiety/`
   - `Neutral/`
