@@ -49,8 +49,8 @@ All models use a comprehensive set of audio features extracted using `librosa`:
 
 Below is a list of the models implemented in this project. Each model has its own notebook in the `src/` directory with implementation details and results.
 
-1.  **CNN Model**:
-    -   **Notebook**: [`src/ser-vesc-cnn.ipynb`](./src/ser-vesc-cnn.ipynb)
+1.  **OrionNet Model**:
+    -   **Notebook**: [`src/ser-vesc-orionnet.ipynb`](./src/ser-vesc-orionnet.ipynb)
     -   **Description**: Uses a Convolutional Neural Network (CNN) for emotion classification.
 
 2.  **Transformer Model**:
