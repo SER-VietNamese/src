@@ -50,23 +50,23 @@ All models use a comprehensive set of audio features extracted using `librosa`:
 Below is a list of the models implemented in this project. Each model has its own notebook in the `src/` directory with implementation details and results.
 
 1.  **OrionNet Model**:
-    -   **Notebook**: [`src/ser-vesc-orionnet.ipynb`](./src/ser-vesc-orionnet.ipynb)
+    -   **Notebook**: [`src/ser-vesc-orionnet.ipynb`](ser-vesc-orionnet.ipynb)
     -   **Description**: Uses a Convolutional Neural Network (CNN) for emotion classification.
 
 2.  **Transformer Model**:
-    -   **Notebook**: [`src/ser-vesc-transformer.ipynb`](./src/ser-vesc-transformer.ipynb)
+    -   **Notebook**: [`src/ser-vesc-transformer.ipynb`](ser-vesc-transformer.ipynb)
     -   **Description**: Leverages the Transformer architecture to capture relationships in speech data.
 
 3.  **CNN + BiLSTM + Attention Model**:
-    -   **Notebook**: [`src/ser-vesc-cnn-bilstm-att.ipynb`](./src/ser-vesc-cnn-bilstm-att.ipynb)
+    -   **Notebook**: [`src/ser-vesc-cnn-bilstm-att.ipynb`](ser-vesc-cnn-bilstm-att.ipynb)
     -   **Description**: A hybrid model that uses a CNN for feature extraction, a BiLSTM to model time series, and an attention mechanism to focus on important parts of the speech.
 
 4.  **ESERNet Model**:
-    -   **Notebook**: [`src/ser-vesc-esernet.ipynb`](./src/ser-vesc-esernet.ipynb)
+    -   **Notebook**: [`src/ser-vesc-esernet.ipynb`](ser-vesc-esernet.ipynb)
     -   **Description**: A newly added model, likely an efficient architecture for speech emotion recognition.
 
 5.  **STACN Model**:
-    -   **Notebook**: [`src/ser-vesc-stacn.ipynb`](./src/ser-vesc-stacn.ipynb)
+    -   **Notebook**: [`src/ser-vesc-stacn.ipynb`](ser-vesc-stacn.ipynb)
     -   **Description**: Another advanced model added, which may use state-of-the-art techniques to improve accuracy.
 
 ## Results
