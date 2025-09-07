@@ -54,7 +54,7 @@ Below is a list of the models implemented in this project. Each model has its ow
     -   **Description**: Uses a Convolutional Neural Network (CNN) for emotion classification.
 
 2.  **Transformer Model**:
-    -   **Notebook**: [`src/ser-vesc-transformer-k-fold.ipynb`](ser-vesc-transformer-k-fold.ipynb)
+    -   **Notebook**: [`src/ser-vesc-transformer.ipynb`](ser-vesc-transformer.ipynb)
     -   **Description**: Leverages the Transformer architecture to capture relationships in speech data.
 
 3.  **CNN + BiLSTM + Attention Model**:
