@@ -2,13 +2,9 @@
 
 This repository contains different deep learning models for Speech Emotion Recognition (SER) on Vietnamese audio data. The models are implemented using TensorFlow/Keras and leverage various audio feature extraction techniques.
 
-## Architecture of OrionNet Model:
-![Architecture of OrionNet Model](image/OrionNet.png)
-
 ## Table of Contents
 
 - [Speech Emotion Recognition (SER) Models for Vietnamese](#speech-emotion-recognition-ser-models-for-vietnamese)
-  - [Architecture of OrionNet Model:](#architecture-of-orionnet-model)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Dataset](#dataset)
@@ -57,7 +53,8 @@ Below is a list of the models implemented in this project. Each model has its ow
 1.  **OrionNet Model**:
     -   **Notebook**: [`src/ser-vesc-orionnet.ipynb`](ser-vesc-orionnet.ipynb)
     -   **Description**: Uses a Convolutional Neural Network (CNN) for emotion classification.
-
+    -   **Architecture of OrionNet Model**:
+    ![Architecture of OrionNet Model](image/OrionNet.png)
 2.  **Transformer Model**:
     -   **Notebook**: [`src/ser-vesc-transformer.ipynb`](ser-vesc-transformer.ipynb)
     -   **Description**: Leverages the Transformer architecture to capture relationships in speech data.
