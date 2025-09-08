@@ -70,7 +70,7 @@ Below is a list of the models implemented in this project. Each model has its ow
     -   **Description**: Another advanced model added, which may use state-of-the-art techniques to improve accuracy.
 6.  **Multitask Transformer Model**:
     -   **Notebook**: [`src/ser-vesc-multitask-transformer.ipynb`](ser-vesc-multitask-transformer.ipynb)
-    -   **Description**: A multimodal model using both audio (AST) and text (BERT) transformers. It's trained with multitask learning, including emotion classification, data augmentation recognition, and contrastive loss to improve feature representation..
+    -   **Description**: A multimodal model using both audio (AST) and text (BERT) transformers. It's trained with multitask learning, including emotion classification, data augmentation recognition, and contrastive loss to improve feature representation.
 
 ## Results
 
