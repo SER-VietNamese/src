@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER) Models for Vietnamese
 
-This repository contains five different deep learning models for Speech Emotion Recognition (SER) on Vietnamese audio data. The models are implemented using TensorFlow/Keras and leverage various audio feature extraction techniques.
+This repository contains different deep learning models for Speech Emotion Recognition (SER) on Vietnamese audio data. The models are implemented using TensorFlow/Keras and leverage various audio feature extraction techniques.
 
 ## Table of Contents
 
@@ -68,6 +68,9 @@ Below is a list of the models implemented in this project. Each model has its ow
 5.  **STACN Model**:
     -   **Notebook**: [`src/ser-vesc-stacn.ipynb`](ser-vesc-stacn.ipynb)
     -   **Description**: Another advanced model added, which may use state-of-the-art techniques to improve accuracy.
+6.  **Multitask Transformer Model**:
+    -   **Notebook**: [`src/ser-vesc-multitask-transformer.ipynb`](ser-vesc-multitask-transformer.ipynb)
+    -   **Description**: A multimodal model using both audio (AST) and text (BERT) transformers. It's trained with multitask learning, including emotion classification, data augmentation recognition, and contrastive loss to improve feature representation..
 
 ## Results
 
