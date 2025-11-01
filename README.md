@@ -12,7 +12,6 @@ This repository contains different deep learning models for Speech Emotion Recog
   - [Models Implemented](#models-implemented)
   - [Results](#results)
   - [Setup and Usage](#setup-and-usage)
-  - [Author](#author)
 
 ## Project Overview
 
@@ -86,8 +85,3 @@ To run these notebooks, you will need to install the necessary libraries. Detail
 -   Librosa
 -   Scikit-learn
 -   And other libraries used in the notebooks.
-
-## Author
-
-Nguyen Manh Ha
-Email: ha.nguyen.fzx@gmail.com
